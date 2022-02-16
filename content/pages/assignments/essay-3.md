@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 title: 'Essay 3 '
 uid: 19f679cf-936b-bee5-ad3e-fa1ccbd70f84

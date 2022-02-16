@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding images of future self.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/0073a6b77a762fe6d7cdbb12e6ce8345_MIT21W_022_03S14_FutuSelf.pdf
+file: /media/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/0073a6b77a762fe6d7cdbb12e6ce8345_MIT21W_022_03S14_FutuSelf.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21W.022.03 Writing and Experience - Reading and Writing Autobiography: Images
   of Future Self'

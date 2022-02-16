@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 title: 'Essay 2: The Personal Investigative "Hybrid" Essay ("Investigative Familiar")'
 uid: c4ffa06f-42e6-2e9b-891c-7b72eeb35144
