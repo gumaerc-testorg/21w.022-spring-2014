@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essay 4
 parent_type: CourseSection
+parent_uid: 79348105-fd1a-f9bc-9f96-5de74dca1e32
 resourcetype: Document
 title: '21W.022.03S14 Writing And Experience: Essay 4 Proposal/Prewrite'
 uid: 4da9b7da-6ab6-53f8-2c44-59362621859b

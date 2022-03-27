@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 resourcetype: Document
 title: '21W.022.03 Writing and Experience - Reading and Writing Autobiography: Soundtracks
   of Our Lives'

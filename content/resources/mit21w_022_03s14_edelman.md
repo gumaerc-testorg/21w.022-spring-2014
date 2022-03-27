@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 resourcetype: Document
 title: '21W.022.03S14 Writing And Experience: Homework - Edelman'
 uid: 62f3c58e-70d4-08e5-f115-5e0ba8620b12

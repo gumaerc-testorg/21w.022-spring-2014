@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 resourcetype: Document
 title: Guidelines for Homework and Class Preparation
 uid: a6ad2b82-50a3-7362-1207-f29d07983348
