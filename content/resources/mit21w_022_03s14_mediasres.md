@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding in media res.
-file: /media/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/97c96642b7fc8f3c177e63da5c912619_MIT21W_022_03S14_MediasRes.pdf
+file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/97c96642b7fc8f3c177e63da5c912619_MIT21W_022_03S14_MediasRes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ title: '21W.022.03 Writing and Experience - Reading and Writing Autobiography: I
   Media Res'
 uid: 97c96642-b7fc-8f3c-177e-63da5c912619
 ---
+This resource contains the information regarding in media res.
+

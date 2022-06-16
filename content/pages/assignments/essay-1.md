@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the first writing assignment of
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -62,7 +64,7 @@ When handing in, include a letter describing the strong points and areas for imp
 Workshop – Session 6
 --------------------
 
-[Essay 1 workshop instructions (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_essay1)
+{{% resource_link 14d776e8-f633-1886-184d-4c72c155c3b8 "Essay 1 workshop instructions (PDF)" %}}
 
 Revision – Due Between Sessions 18 and 19
 -----------------------------------------

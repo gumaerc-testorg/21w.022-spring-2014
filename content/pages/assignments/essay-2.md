@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the second writing assignment
+  of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -46,7 +48,7 @@ Draft 1 — Due between sessions 11 and 12
 Workshops — Session 12 (large group) and Session 13 (small groups)
 ------------------------------------------------------------------
 
-[Essay 2 workshop review form (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_essay2)
+{{% resource_link 29a8c618-42c7-ea7f-fdac-98d425dcd65e "Essay 2 workshop review form (PDF)" %}}
 
 Revision (plus revision cover letter) — Due between Sessions 21 and 22
 ----------------------------------------------------------------------

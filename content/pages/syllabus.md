@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, notes, required reading, written and oral communication
+  assignments, class participation and attendance, writing resources, policy on electronic
+  devices in the classroom, commenting and grading, writing objectives, conferences,
+  and avoiding plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
