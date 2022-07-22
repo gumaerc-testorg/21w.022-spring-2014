@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course assignments, guidelines for homework
+  and class participation, and supporting handouts.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9bec6f95-18d6-0133-8e69-951760b0c710
 ---
@@ -8,7 +13,7 @@ Some assignments are due between class sessions. These are listed in the right c
 
 In the table below, "distribute" indicates when an assignment is handed out, and "due" indicates when it is due.
 
-For additional guidelines see [Guidelines for Homework and Class Participation (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_guide).
+For additional guidelines see {{% resource_link a6ad2b82-50a3-7362-1207-f29d07983348 "Guidelines for Homework and Class Participation (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +43,7 @@ Introduction to the Course: Why Write Autobiographically?
 
 Distribute: Introductory materials
 
-In-class: [Communication Self-assessment Inventory (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_csa)
+In-class: {{% resource_link 9a2a095a-3d0c-f153-2b5a-a1c2e1bbd9d7 "Communication Self-assessment Inventory (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -54,9 +59,9 @@ Beginning to Tell Our Stories
 {{< tdopen >}}
 
 
-Due: [Introductory exercise: Beginning to Tell Your Story (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0206)
+Due: {{% resource_link b0d84b20-8fe1-fc2d-77f2-0455388303cb "Introductory exercise: Beginning to Tell Your Story (PDF)" %}}
 
-Distribute: [Homework exercise on Walker (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0211)
+Distribute: {{% resource_link fb00ab4a-d3e9-5f26-d316-f954c1d00e5a "Homework exercise on Walker (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -86,7 +91,7 @@ Crafting the Self: Experience and the Shaping Of Identity; Writer and Audience
 
 Due: Homework exercise on Walker
 
-Distribute: [Essay 1]({{< baseurl >}}/pages/assignments/essay-1); [Homework exercise on Orwell (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0213)
+Distribute: {{% resource_link ebf1e6f3-fccb-7c75-403c-6bf80e761663 "Essay 1" %}}; {{% resource_link 2c164222-ad1d-da0c-d75e-e0be71bf7d5e "Homework exercise on Orwell (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -104,7 +109,7 @@ Crafting the Self: Experience and the Shaping Of Identity
 
 Due: Homework exercise on Orwell
 
-Distribute: [Homework exercise on Tan (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0220); [Oral Presentations on Writing Issues (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_oralpres); [Past Topics: Oral Presentations on Writing Issues (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_oraltopic)
+Distribute: {{% resource_link cb2a15b1-4626-35f8-d088-dbc680d4d54b "Homework exercise on Tan (PDF)" %}}; {{% resource_link 428a52dd-5f8d-2ee7-5b68-b62c2e25705e "Oral Presentations on Writing Issues (PDF)" %}}; {{% resource_link ae94a7c8-a835-2cf7-a938-9aaea7d39803 "Past Topics: Oral Presentations on Writing Issues (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -124,7 +129,7 @@ Due: Homework exercise on Tan
 
 Distribute: Essay 1 workshop instructions
 
-In-class: [Deep Autobiography Exercise: The Intersection of Family History and Autobiography (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0220_ic); [Writing on Language (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_writing)
+In-class: {{% resource_link 9641c82f-7254-8e50-a85f-3aa9882cefb7 "Deep Autobiography Exercise: The Intersection of Family History and Autobiography (PDF)" %}}; {{% resource_link c1c66147-56c2-f550-819a-b96504ab934b "Writing on Language (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -154,7 +159,7 @@ Workshop: Essay 1
 
 Due: Marked-up essays and comment letters for classmates
 
-Distribute: [Homework exercise on Edelman and Marin (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_edelman)
+Distribute: {{% resource_link 62f3c58e-70d4-08e5-f115-5e0ba8620b12 "Homework exercise on Edelman and Marin (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +177,7 @@ The Self and the Community
 
 Due: Homework exercise on Edelman and Marin
 
-Distribute: [Essay 2]({{< baseurl >}}/pages/assignments/essay-2); [Suggested Citation Style for Essays (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_catihand)
+Distribute: {{% resource_link c4ffa06f-42e6-2e9b-891c-7b72eeb35144 "Essay 2" %}}; {{% resource_link aa567506-c9be-23c0-c4c7-1343ef2c76eb "Suggested Citation Style for Essays (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -202,11 +207,11 @@ Work and Education
 
 Bring five copies of Proposal / Paragraph, Essay 2
 
-Due: [Homework exercise on Douglass and Nelson (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0304)
+Due: {{% resource_link 12728620-5524-af0d-f8ba-ca04aa2c0de8 "Homework exercise on Douglass and Nelson (PDF)" %}}
 
-Distribute: [Homework exercise on Witherspoon (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0306)
+Distribute: {{% resource_link cd882ac7-4a35-8d87-9381-6f1961a85262 "Homework exercise on Witherspoon (PDF)" %}}
 
-In-class: [Five Minutes "In Media Res" (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_mediasres)
+In-class: {{% resource_link 97c96642-b7fc-8f3c-177e-63da5c912619 "Five Minutes \"In Media Res\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -224,7 +229,7 @@ Work: Creativity and Integrity
 
 Due: Homework exercise on Witherspoon
 
-Distribute: [Homework exercise on King and Frank (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0313)
+Distribute: {{% resource_link 62f4e069-e7f8-f52d-54f9-2b1cef50f5d7 "Homework exercise on King and Frank (PDF)" %}}
 
 Peer review: Proposal, Essay 2 (2 paragraphs)
 
@@ -296,9 +301,9 @@ Workshop II (Small Groups): Essay 2
 
 Bring review letters and marked-up essays
 
-Distribute: [Homework exercise on O'Brien (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0401)
+Distribute: {{% resource_link 027f80f8-731c-805e-4113-56ba21254788 "Homework exercise on O'Brien (PDF)" %}}
 
-In-class: [Self-assessment: Editing and Reviewing Skills (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_esa)
+In-class: {{% resource_link 7a1401a0-2eaa-f1d2-01e8-9e3334125ffd "Self-assessment: Editing and Reviewing Skills (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -322,9 +327,9 @@ Oral Presentations
 
 Due: Homework exercise on O'Brien
 
-Distribute: [Essay 3]({{< baseurl >}}/pages/assignments/essay-3); [Homework exercise on Eggers (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0403)
+Distribute: {{% resource_link 19f679cf-936b-bee5-ad3e-fa1ccbd70f84 "Essay 3" %}}; {{% resource_link 39bdf4c3-fb83-64a9-bb28-eabe296061ff "Homework exercise on Eggers (PDF)" %}}
 
-In-Class: [Exercise in Collective Autobiography, "The Things They Carried" (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0401_ic)
+In-Class: {{% resource_link 7b5a460e-bce0-f623-2bd6-447231b6336b "Exercise in Collective Autobiography, \"The Things They Carried\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -368,7 +373,7 @@ Writing About Illness (1)
 {{< tdopen >}}
 
 
-Distribute: [Homework exercise on Ehrenreich (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0410)
+Distribute: {{% resource_link de7c582c-a55e-92c3-c6f9-5d968b2e1507 "Homework exercise on Ehrenreich (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -392,7 +397,7 @@ Oral Presentations
 
 Due: Homework exercise on Ehrenreich
 
-Distribute: [Homework exercise on Kaysen (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0417)
+Distribute: {{% resource_link 43892d7e-ad1f-f0a7-312c-a65e84770e96 "Homework exercise on Kaysen (PDF)" %}}
 
 Bring four copies of Proposal / Paragraph, Essay 3.
 
@@ -450,7 +455,7 @@ Workshop: Essay 3
 
 Due: Marked-up essays and comment letters for classmates
 
-Distribute: [Homework exercise on Thompson (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0429)
+Distribute: {{% resource_link 4b27f69e-edd6-c723-60f8-675f53412d93 "Homework exercise on Thompson (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -474,7 +479,7 @@ Oral Presentations
 
 Due: Homework exercise on Thompson
 
-Distribute: [Homework exercise on Gilman (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_0501)
+Distribute: {{% resource_link 00da81b4-ff54-12dc-b401-be393c69496b "Homework exercise on Gilman (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -492,7 +497,7 @@ Writing About Mental Illness: Autobiographically Inspired Fiction / Beyond the K
 
 Due: Homework exercise on Gilman
 
-Distribute: [Essay 4]({{< baseurl >}}/pages/assignments/essay-4)
+Distribute: {{% resource_link 79348105-fd1a-f9bc-9f96-5de74dca1e32 "Essay 4" %}}
 
 
 {{< tdclose >}}
@@ -536,7 +541,7 @@ Bring five copies
 Beyond the Known: Autobiographical Travel Writing (cont.) / The Challenge of Closure in Autobiography
 {{< tdclose >}}
 {{< tdopen >}}
-In-class: [Closure in Autobiographical Writing (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_closure)
+In-class: {{% resource_link afa4e386-b8d4-426c-facd-8875e756a9d2 "Closure in Autobiographical Writing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -560,7 +565,7 @@ No assignments due
 Course Overview / Celebration
 {{< tdclose >}}
 {{< tdopen >}}
-Due: [Final Submissions of Essays 3 and 4 (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_final)
+Due: {{% resource_link 2d042cba-f568-3b75-8838-1abc36c4b440 "Final Submissions of Essays 3 and 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -569,10 +574,10 @@ Due: [Final Submissions of Essays 3 and 4 (PDF)]({{< baseurl >}}/resources/mit21
 
 **Supplemental Handouts**
 
-[Working With Images of the Future Self (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_futuself)
+{{% resource_link 0073a6b7-7a76-2fe6-d7cd-bb12e6ce8345 "Working With Images of the Future Self (PDF)" %}}
 
-[Working With Interior Monologue (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_intermono)
+{{% resource_link 9bf00ac8-6998-c4e9-5fb1-ed246f5cd875 "Working With Interior Monologue (PDF)" %}}
 
-[The Soundtracks of Our Lives: Integrating Music Into Autobiographical Writing (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_soundtrack)
+{{% resource_link 8abdbdc8-1b20-0d50-1f2c-5b6e18ab228f "The Soundtracks of Our Lives: Integrating Music Into Autobiographical Writing (PDF)" %}}
 
-[Integrating Music Writing Exercise (PDF)]({{< baseurl >}}/resources/mit21w_022_03s14_intemusic)
+{{% resource_link 0d626344-6451-1a60-f887-e4f8d7697798 "Integrating Music Writing Exercise (PDF)" %}}

@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, workshops, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 35887b52-828a-9a3a-8e2b-3e1cd1a81fa0
 ---
 
-Sometimes [assignments]({{< baseurl >}}/pages/assignments) are due between sessions. These are not marked with a session number, and are on their own lines, under the KEY DATES column.
+Sometimes {{% resource_link 9bec6f95-18d6-0133-8e69-951760b0c710 "assignments" %}} are due between sessions. These are not marked with a session number, and are on their own lines, under the KEY DATES column.
 
 {{< tableopen >}}
 {{< theadopen >}}
