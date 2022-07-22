@@ -6,6 +6,7 @@ file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiograp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '21W.022.03 Writing and Experience - Reading and Writing Autobiography: W
 uid: 9bf00ac8-6998-c4e9-5fb1-ed246f5cd875
 ---
 This resource contains the information regarding working with interior monologue.
-

@@ -5,6 +5,7 @@ file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiograp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21W.022.03 Writing and Experience - Reading and Writing Autobiography: I
 uid: 0073a6b7-7a76-2fe6-d7cd-bb12e6ce8345
 ---
 This resource contains the information regarding images of future self.
-

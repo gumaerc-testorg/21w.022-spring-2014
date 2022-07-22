@@ -5,6 +5,7 @@ file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiograp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Submission Requirements
 uid: 2d042cba-f568-3b75-8838-1abc36c4b440
 ---
 This file contains the information regarding Final Submission Requirements.
-
