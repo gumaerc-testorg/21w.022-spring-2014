@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding oral presentations.
 file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/428a52dd5f8d2ee75b68b62c2e25705e_MIT21W_022_03S14_OralPres.pdf
+file_size: 118443
 file_type: application/pdf
 learning_resource_types:
 - Assignments

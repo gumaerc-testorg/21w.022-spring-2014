@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding working with interior
   monologue.
 file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/9bf00ac86998c4e95fb1ed246f5cd875_MIT21W_022_03S14_InterMono.pdf
+file_size: 470409
 file_type: application/pdf
 learning_resource_types:
 - Assignments

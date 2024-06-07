@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding edelman and marin.
 file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/62f3c58e70d408e5f1155e0ba8620b12_MIT21W_022_03S14_Edelman.pdf
+file_size: 221339
 file_type: application/pdf
 learning_resource_types:
 - Assignments
