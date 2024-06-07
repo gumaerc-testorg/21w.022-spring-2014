@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding essay 4.
 file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/4da9b7da6ab653f82c4459362621859b_MIT21W_022_03S14_Esay4Prpo.pdf
+file_size: 77886
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
