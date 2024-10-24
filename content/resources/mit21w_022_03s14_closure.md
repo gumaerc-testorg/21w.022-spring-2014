@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding closure in autobiographical
   writing.
-file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/afa4e386b8d4426cfacd8875e756a9d2_MIT21W_022_03S14_Closure.pdf
+file: /ol-ocw-studio-app/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/afa4e386b8d4426cfacd8875e756a9d2_MIT21W_022_03S14_Closure.pdf
 file_size: 90869
 file_type: application/pdf
 learning_resource_types:
