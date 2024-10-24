@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding writing on language.
-file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/c1c6614756c2f550819ab96504ab934b_MIT21W_022_03S14_Writing.pdf
+file: /ol-ocw-studio-app/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/c1c6614756c2f550819ab96504ab934b_MIT21W_022_03S14_Writing.pdf
 file_size: 144586
 file_type: application/pdf
 learning_resource_types:
