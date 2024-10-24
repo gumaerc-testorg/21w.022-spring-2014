@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding suggested citation style
   for essays.
-file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/aa567506c9be23c0c4c71343ef2c76eb_MIT21W_022_03S14_CatiHand.pdf
+file: /ol-ocw-studio-app/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/aa567506c9be23c0c4c71343ef2c76eb_MIT21W_022_03S14_CatiHand.pdf
 file_size: 120106
 file_type: application/pdf
 learning_resource_types:
