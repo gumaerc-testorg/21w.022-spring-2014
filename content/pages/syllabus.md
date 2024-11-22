@@ -156,5 +156,5 @@ Students are strongly encouraged to craft their essays with the goal of publicat
 MIT student publications include:
 
 - [*Angles*](http://cmsw.mit.edu/publications/angles/)
-- [*The Tech*](http://www-tech.mit.edu/) – MIT's daily newspaper
+- [*The Tech*](https://thetech.com/) – MIT's daily newspaper
 - *Rune* – A biannual journal of arts and letters featuring original work by MIT students, staff, faculty and affiliates
