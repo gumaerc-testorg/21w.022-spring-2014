@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding soundtracks of our lives.
-file: /ol-ocw-studio-app/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/8abdbdc81b200d501f2c5b6e18ab228f_MIT21W_022_03S14_SoundTrack.pdf
+file: /courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/8abdbdc81b200d501f2c5b6e18ab228f_MIT21W_022_03S14_SoundTrack.pdf
 file_size: 378304
 file_type: application/pdf
 learning_resource_types:
