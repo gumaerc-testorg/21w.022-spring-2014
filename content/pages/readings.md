@@ -190,7 +190,7 @@ Writing about Mental Illness (2)
 Oral Presentations
 
 {{< tdclose >}}{{< tdopen >}}
-Thompson, Tracy. "[Seeking the Wizards of Prozac](http://connection.ebscohost.com/c/articles/9404211704/seeking-wizards-prozac)." *Saturday Evening Post* 266, no. 2 (1994): 50-95.
+Thompson, Tracy. "[Seeking the Wizards of Prozac](https://www.unz.com/print/SatEveningPost-1994mar-00050/)." *Saturday Evening Post* 266, no. 2 (1994): 50-95.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
