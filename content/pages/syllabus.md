@@ -135,7 +135,7 @@ In addition to meeting with me, Louise Harrison Lepera is the writing / communic
 
 In addition to meeting with me and with Louise Harrison Lepera, students may want to visit the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), which offers free one-on-one professional advice from lecturers who are published writers and experienced college educators. They offer advice about all types of academic, creative, and professional writing and about all aspects of oral presentations. They offer advice also about applications, theses, CVs, etc. The Center hosts many [pages of advice about writing and oral presentations](http://cmsw.mit.edu/writing-and-communication-center/links/).
 
-The [CMS / Writing Program website](http://cmsw.mit.edu/education/writing/undergraduate/) also has information on topics of interest to students: classes, advising, requirements for majors, minors and concentrators, and public events. Annually, the program awards student writing prizes in various genres (e.g., essay, poetry, technical writing).
+The [CMS / Writing Program website](https://catalog.mit.edu/schools/humanities-arts-social-sciences/comparative-media-studies-writing/) also has information on topics of interest to students: classes, advising, requirements for majors, minors and concentrators, and public events. Annually, the program awards student writing prizes in various genres (e.g., essay, poetry, technical writing).
 
 ## Academic Integrity: Avoiding Plagiarism
 
