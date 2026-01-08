@@ -35,7 +35,7 @@ Throughout the course, we will explore the craft of storytelling and the art of 
 
 ## Notes
 
-This course meets MIT's {{% resource_link "3144f6a4-3f3c-454e-bc87-ca48c5c0757b" "CI-HW requirement" %}}.
+This course meets MIT's [CI-HW requirement](http://web.mit.edu/commreq/cih.html).
 
 MIT students taking this course can only receive credit if they have not taken another 21W.022 Writing and Experience class.
 
@@ -43,7 +43,7 @@ MIT students taking this course can only receive credit if they have not taken a
 
 Lunsford, Andrea A. *Easy Writer: A Pocket Guide*. 5th ed. Bedford / St. Martin's Press, 2013. ISBN: 9781457640469.
 
-You should also have on hand a college dictionary and thesaurus. *The Oxford English Dictionary* is available online through the library website for MIT students. There are also other valuable writing and research aids available online to MIT students through the {{% resource_link "397bbf66-e2e0-4cc7-9859-769720c5cbe4" "library website" %}}. Check the "virtual reference" section of the library website. For general writing reference, also see *Easy Writer*.
+You should also have on hand a college dictionary and thesaurus. *The Oxford English Dictionary* is available online through the library website for MIT students. There are also other valuable writing and research aids available online to MIT students through the [library website](http://libraries.mit.edu/). Check the "virtual reference" section of the library website. For general writing reference, also see *Easy Writer*.
 
 ## Writing and Oral Communication Assignments
 
@@ -133,9 +133,9 @@ In addition to meeting with me, Louise Harrison Lepera is the writing / communic
 
 ## Writing and Communication Center; Information on Writing-Related Events and Courses
 
-In addition to meeting with me and with Louise Harrison Lepera, students may want to visit the {{% resource_link "ba3ee0d5-41c2-4f1d-a925-d2b12b70f296" "Writing and Communication Center" %}}, which offers free one-on-one professional advice from lecturers who are published writers and experienced college educators. They offer advice about all types of academic, creative, and professional writing and about all aspects of oral presentations. They offer advice also about applications, theses, CVs, etc. The Center hosts many {{% resource_link "6846b39c-1331-4291-a35b-74cb0eff824f" "pages of advice about writing and oral presentations" %}}.
+In addition to meeting with me and with Louise Harrison Lepera, students may want to visit the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), which offers free one-on-one professional advice from lecturers who are published writers and experienced college educators. They offer advice about all types of academic, creative, and professional writing and about all aspects of oral presentations. They offer advice also about applications, theses, CVs, etc. The Center hosts many [pages of advice about writing and oral presentations](http://cmsw.mit.edu/writing-and-communication-center/links/).
 
-The {{% resource_link "2443f798-c88c-42dc-9c72-d1c718e8f138" "CMS / Writing Program website" %}} also has information on topics of interest to students: classes, advising, requirements for majors, minors and concentrators, and public events. Annually, the program awards student writing prizes in various genres (e.g., essay, poetry, technical writing).
+The [CMS / Writing Program website](https://catalog.mit.edu/schools/humanities-arts-social-sciences/comparative-media-studies-writing/) also has information on topics of interest to students: classes, advising, requirements for majors, minors and concentrators, and public events. Annually, the program awards student writing prizes in various genres (e.g., essay, poetry, technical writing).
 
 ## Academic Integrity: Avoiding Plagiarism
 
@@ -143,7 +143,7 @@ Using someone else's language and / or ideas without proper attribution is acade
 
 Everything you submit must be your own work, written specifically to earn credit in this class. You may not "recycle" text written for another course, or before the class started.
 
-{{% resource_link "63147cc4-60b8-42dc-ba7a-10fb7b72e257" "*Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students*" %}} explains these issues in detail; you are responsible for understanding its contents. In class, we will also work on citing sources and discuss ways to acknowledge them properly. When in doubt, consult with the instructor.
+[*Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students*](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) explains these issues in detail; you are responsible for understanding its contents. In class, we will also work on citing sources and discuss ways to acknowledge them properly. When in doubt, consult with the instructor.
 
 ## Writing Portfolio
 
@@ -151,10 +151,10 @@ Please keep all four major assignments (first versions and revisions) and my com
 
 ## Publishing Your Work
 
-Students are strongly encouraged to craft their essays with the goal of publication. During the semester, we will discuss strategies for planning for publication. CMS / Writing annually publishes {{% resource_link "f466ae48-9179-46df-9200-4f2064d92efc" "*Angles*" %}}, an online journal of exemplary writing from the introductory courses; students can submit their work for consideration for publication to the Angles editorial committee at the end of the term.
+Students are strongly encouraged to craft their essays with the goal of publication. During the semester, we will discuss strategies for planning for publication. CMS / Writing annually publishes [*Angles*](http://cmsw.mit.edu/publications/angles/), an online journal of exemplary writing from the introductory courses; students can submit their work for consideration for publication to the Angles editorial committee at the end of the term.
 
 MIT student publications include:
 
-- {{% resource_link "f466ae48-9179-46df-9200-4f2064d92efc" "*Angles*" %}}
-- {{% resource_link "8c8ca21e-ef5b-498d-885f-d54240fba1e1" "*The Tech*" %}} – MIT's daily newspaper
+- [*Angles*](http://cmsw.mit.edu/publications/angles/)
+- [*The Tech*](https://thetech.com/) – MIT's daily newspaper
 - *Rune* – A biannual journal of arts and letters featuring original work by MIT students, staff, faculty and affiliates
