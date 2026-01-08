@@ -37,9 +37,9 @@ Crafting the Self: Experience and the Shaping Of Identity; Writer and Audience
 
 Walker, Alice. "Beauty: When the Other Dancer is the Self." In *Uncommon Knowledge: Exploring Ideas Through Reading and Writing*. Edited by Rose Hawkins and Robert Isaacson. Wadsworth Publishing, 1995. ISBN: 9780395709580.
 
-Rauch, Jonathan. "{{% resource_link "e1a82223-1504-44ba-845a-1462af066ac2" "Caring for Your Introvert" %}}." *The Atlantic*, March 2003.
+Rauch, Jonathan. "[Caring for Your Introvert](http://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/302696/)." *The Atlantic*, March 2003.
 
-Shepherd, Susan. "{{% resource_link "572dc86e-a070-46a5-888a-6c3e4ebbf445" "Daughters Without Borders" %}}." *Angles*, 2008.
+Shepherd, Susan. "[Daughters Without Borders](http://web.mit.edu/angles2008/angles_Susan_Shepherd.html)." *Angles*, 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -47,20 +47,20 @@ Shepherd, Susan. "{{% resource_link "572dc86e-a070-46a5-888a-6c3e4ebbf445" "Daug
 Crafting the Self: Experience and the Shaping Of Identity
 {{< tdclose >}}{{< tdopen >}}
 
-Orwell, George. "{{% resource_link "72a94f29-2714-4067-9a29-88e5b4c21650" "Shooting an Elephant" %}}." Charles' George Orwell Links.
+Orwell, George. "[Shooting an Elephant](http://www.online-literature.com/orwell/887/)." Charles' George Orwell Links.
 
-Orwell, George. Excerpt from {{% resource_link "5b1bf3f5-41ff-4590-879d-f9fcd3472abe" "*Nineteen Eighty-Four*" %}}. Penguin Random House.
+Orwell, George. Excerpt from [*Nineteen Eighty-Four*](https://www.penguin.co.uk/articles/2015/nineteen-eighty-four-by-george-orwell.html). Penguin Random House.
 
-Hamilos, Alison. "{{% resource_link "657b9e0f-c3f4-46d5-961e-fce03eb83a72" "The Starting Line" %}}." *Angles*, 2010.
+Hamilos, Alison. "[The Starting Line](http://web.mit.edu/angles/angles_Allison_Hamilos.html)." *Angles*, 2010.
 
-Nwosu, Kelechi. "{{% resource_link "df86b0b0-aebc-4388-9b81-f63d0171c4c3" "Zero Beach" %}}." *Angles*, 2010.
+Nwosu, Kelechi. "[Zero Beach](http://web.mit.edu/angles/angles_Kelechi_Nwosu.html)." *Angles*, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 Family Relationships, Language, Legitimacy and the Writer's Craft
 {{< tdclose >}}{{< tdopen >}}
-Tan, Amy. {{% resource_link "d0fe0099-501b-4fe8-bf74-b3ba0a7c35ad" "\"Mother Tongue.\" (PDF - 1.9MB)" %}} 1990.
+Tan, Amy. ["Mother Tongue." (PDF - 1.9MB)](http://theessayexperiencefall2013.qwriting.qc.cuny.edu/files/2013/09/Mother-Tongue-by-Amy-Tan.pdf) 1990.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -75,7 +75,7 @@ The Self and the Community
 
 Edelman, Marian Wright. "A Family Legacy." In *The Measure of Our Success: A Letter to My Children & Yours*. HarperCollins Publishers, 1993. ISBN: 9780060975708. 
 
-Marin, Peter. "{{% resource_link "d1fbff2b-db5e-4a5e-8687-16c272190ffc" "Helping and Hating the Homeless: The Struggle at the Margins of America" %}}." *Harper's Magazine*, January 1987.
+Marin, Peter. "[Helping and Hating the Homeless: The Struggle at the Margins of America](http://harpers.org/archive/1987/01/helping-and-hating-the-homeless-the-struggle-at-the-margins-of-america/)." *Harper's Magazine*, January 1987.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -85,7 +85,7 @@ Work and Education
 
 Douglass, Frederick. "Learning to Read and Write." Excerpt from *Narrative of the Life of Frederick Douglass, an American Slave*. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781497573567.
 
-Nelson, Anita. "{{% resource_link "16b94159-791c-4d6d-92ea-6cbebd7f1fb1" "Fast Food, Living Fast" %}}." *Angles*, 2010.
+Nelson, Anita. "[Fast Food, Living Fast](http://web.mit.edu/angles/2010_Anita_Nelson.html)." *Angles*, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -93,7 +93,7 @@ Nelson, Anita. "{{% resource_link "16b94159-791c-4d6d-92ea-6cbebd7f1fb1" "Fast F
 Work: Creativity and Integrity
 {{< tdclose >}}{{< tdopen >}}
 
-Atwood, Margaret. "{{% resource_link "560d061d-f645-4742-9061-b3253a9c5458" "A Path Taken, With All the Certainty of Youth" %}}." *New York Times*, March 11, 2002.
+Atwood, Margaret. "[A Path Taken, With All the Certainty of Youth](http://www.nytimes.com/2002/03/11/arts/writers-on-writing-a-path-taken-with-all-the-certainty-of-youth.html)." *New York Times*, March 11, 2002.
 
 Witherspoon, Abigail. "This Pen for Hire." *Harper's*, June 1995.
 
@@ -105,9 +105,9 @@ Self-Writing / Speaking: Captivity and Advocacy
 
 Frank, Anne. "At Home, In School, In Hiding." In *Fields of Reading: Motives for Writing*. 7th ed. Edited by Nancy R. Comley, David Hamilton, et al. Bedford/St. Martin's Press, 2003. ISBN: 9780312412579.
 
-Truth, Sojourner Truth. "{{% resource_link "8fae6406-bf28-4135-9385-941a16affe31" "Ain't I A Woman?" %}}" December 1851. Fordham University.
+Truth, Sojourner Truth. "[Ain't I A Woman?](http://www.fordham.edu/halsall/mod/sojtruth-woman.asp)" December 1851. Fordham University.
 
-King, Jr., Martin Luther. "{{% resource_link "e82f24c6-960d-4854-ada3-75d5ee3280b5" "Letter From Birmingham Jail" %}}." April 16, 1963. Martin Luther King, Jr. Research and Education Institute, Stanford University.
+King, Jr., Martin Luther. "[Letter From Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)." April 16, 1963. Martin Luther King, Jr. Research and Education Institute, Stanford University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -165,7 +165,7 @@ Oral Presentations
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ehrenreich, Barbara. {{% resource_link "7c2eeba1-f7af-49da-b45c-b7ea1eaa375f" "\"Welcome to Cancerland.\" (PDF)" %}} *Harper's*, November 2001, 43-53.
+Ehrenreich, Barbara. ["Welcome to Cancerland." (PDF)](http://pinkribbonblues.org/wp-content/uploads/2010/08/Ehrenreich-2001-WelcomeToCancerland-Harpers.pdf) *Harper's*, November 2001, 43-53.
 
 Engelberg, Miriam. *Cancer Made Me a Shallower Person*. Harper Perennial, 2006. ISBN: 9780060789732.
 
@@ -174,7 +174,7 @@ Engelberg, Miriam. *Cancer Made Me a Shallower Person*. Harper Perennial, 2006. 
 {{< tdclose >}}{{< tdopen >}}
 Writing about Mental Illness (1)
 {{< tdclose >}}{{< tdopen >}}
-Kaysen, Susanna. Excerpt from {{% resource_link "ba264d0e-bcdb-4a6d-95f3-571c2b2ccede" "*Girl, Interrupted*" %}}. Vintage, 1994. ISBN: 9780679746041.
+Kaysen, Susanna. Excerpt from [*Girl, Interrupted*](https://www.bookbrowse.com/excerpts/index.cfm?book_number=241). Vintage, 1994. ISBN: 9780679746041.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -190,13 +190,13 @@ Writing about Mental Illness (2)
 Oral Presentations
 
 {{< tdclose >}}{{< tdopen >}}
-Thompson, Tracy. "{{% resource_link "292996ba-dd38-450f-b1d9-18df03fa0fb0" "Seeking the Wizards of Prozac" %}}." *Saturday Evening Post* 266, no. 2 (1994): 50-95.
+Thompson, Tracy. "[Seeking the Wizards of Prozac](https://www.unz.com/print/SatEveningPost-1994mar-00050/)." *Saturday Evening Post* 266, no. 2 (1994): 50-95.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 Writing About Mental Illness: Autobiographically Inspired Fiction / Beyond the Known: Autobiographical Travel Writing
 {{< tdclose >}}{{< tdopen >}}
-Gilman, Charlotte Perkins. "{{% resource_link "e267721c-4824-4263-b451-1f160120ed13" "The Yellow Wallpaper" %}}." *New England Magazine,* 1892. 
+Gilman, Charlotte Perkins. "[The Yellow Wallpaper](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf)." *New England Magazine,* 1892. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
